@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/scroll-indicator/static/css/main.63b380ea.css",
+    "main.js": "/scroll-indicator/static/js/main.ba6029f7.js",
+    "static/js/453.5d62c192.chunk.js": "/scroll-indicator/static/js/453.5d62c192.chunk.js",
+    "index.html": "/scroll-indicator/index.html",
+    "main.63b380ea.css.map": "/scroll-indicator/static/css/main.63b380ea.css.map",
+    "main.ba6029f7.js.map": "/scroll-indicator/static/js/main.ba6029f7.js.map",
+    "453.5d62c192.chunk.js.map": "/scroll-indicator/static/js/453.5d62c192.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63b380ea.css",
+    "static/js/main.ba6029f7.js"
+  ]
+}
